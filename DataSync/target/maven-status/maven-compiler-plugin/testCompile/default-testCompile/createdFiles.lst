@@ -1,0 +1,8 @@
+ReportTest\TotalReportTest.class
+ReportTest\MonthlyReportEbayTest.class
+DAOTest\ListingStatusDAOTest.class
+DAOTest\MarketplaceDAOTest.class
+ReportTest\MonthlyReportAmazonTest.class
+TestUtils\DatabaseConnectionTest.class
+DAOTest\ListingDAOTest.class
+DAOTest\LocationDAOTest.class
